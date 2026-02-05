@@ -231,6 +231,7 @@ header nav p.active, header nav p:hover{
     position: absolute;
     bottom: 3vh;
     right: 6vw;
+    height: min-content;
 }
 #introSec .lookBox p{
     font-size: clamp(2rem,3vw,2.5rem);
