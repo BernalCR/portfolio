@@ -229,7 +229,7 @@ header nav p.active, header nav p:hover{
 }
 #introSec .lookBox{
     position: absolute;
-    bottom: 7vh;
+    bottom: 3vh;
     right: 6vw;
 }
 #introSec .lookBox p{
